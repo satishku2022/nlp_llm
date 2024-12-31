@@ -1,9 +1,9 @@
 # NLP related code using Transfomers + LLMs
 
 1. Using BERT Encoder Model to FineTune on Cola Dataset which identifies if a sentence is good grammer wise.
-Run on Google Colab using GPU/TPU
+	--	Run on Google Colab using GPU/TPU
 
-NodeBooks
+NoteBooks
 BERT_Fine_Tuning_Sentence_Classification_GPU.ipynb 
 bert_fine_tuning_sentence_classification_gpu.py
 
